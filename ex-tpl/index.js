@@ -1,4 +1,4 @@
-function func() {  
+const func = () => {  
   return 1
 }
 
