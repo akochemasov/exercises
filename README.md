@@ -24,7 +24,3 @@
 ### Источники задач
 1. https://t.me/callforward/3
 2. http://learn.javascript.ru/
-
-### TODO:
-* Можно ли как то запустить отдельно тесты для проверки решения пользователя и готового решшения? Например `npm test exN solution` и `npm test exN`
-* Поменять тестирование на `mocha` или `jasmine`?
